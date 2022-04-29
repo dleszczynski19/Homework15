@@ -1,0 +1,15 @@
+browser:
+  browserName: chrome
+  headlessBrowser: false
+  webElementTimeOut: 15
+  appUrl: http://automationpractice.com/
+currentEnv: test
+environments:
+  test:
+    envName: test
+    subcategory: Blouses
+    parentCategory: Women
+  integrate:
+    envName: integrate
+    subcategory: Blouses
+    parentCategory: Women
